@@ -32,9 +32,9 @@ Focus retention budget on the "At Risk" segment (23,944 customers). They've boug
 Don't try to win back Lost Customers with discounts. Their average order value is too low to justify the cost. Better to understand why they left.
 Investigate Q4 2018. The sales drop is too sharp to be seasonal. Could be a logistics issue, a competitor, or a product problem — but it needs a separate analysis.
 
-=========================================================
+
 Tools & Stack
-=========================================================
+
 
 Python 3.11
 ├── Pandas       — data manipulation & merging
@@ -42,9 +42,9 @@ Python 3.11
 ├── Seaborn      — statistical plots
 └── Scikit-learn — Random Forest classifier
 
-=========================================================
+
 Files in This Repo
-=========================================================
+
 
 ecommerce-analysis/
 ├── ecommerce_analysis.ipynb   ← main notebook
