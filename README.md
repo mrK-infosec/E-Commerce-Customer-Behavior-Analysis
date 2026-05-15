@@ -63,5 +63,11 @@ I'd want to test XGBoost and compare it against Random Forest
 
 If I had more time, I'd also build a Power BI dashboard on top of this so non-technical stakeholders could explore the segments themselves.
 
+<img width="2082" height="1476" alt="rfm_dashboard" src="https://github.com/user-attachments/assets/522830ce-b2b6-4b9d-9549-de1aeec5127b" />
+
+<img width="1728" height="740" alt="churn_model" src="https://github.com/user-attachments/assets/b99036b6-f87c-4fc8-9d24-bcb5700cd6f5" />
+
+
+
 Built by Abdulrahman Adel — Data Analyst based in Dubai
 github.com/mrK-infosec | abdoadel3337@hotmail.com
